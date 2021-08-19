@@ -1,4 +1,4 @@
-# react-vr-react-360-virtual-tour
+# React Vr & React 360 Virtual Tour
 Create Virtual Tour Using React VR &amp; React 360
 
 # Demo URL
